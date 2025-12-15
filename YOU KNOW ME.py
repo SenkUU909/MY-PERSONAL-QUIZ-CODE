@@ -10,7 +10,7 @@ print ("")
 if (a==b):
     print ("PAss korsen")
 else:
-    print("Tumi amare bal chino")
+    print("Tumi amare chinoina")
 
 print ("")
 
@@ -115,6 +115,7 @@ elif (j==bii):
     print ("I Wanna know why")
 else:
     print ("SUnaM naki durnam bujtasi na")
+
 
 
 
